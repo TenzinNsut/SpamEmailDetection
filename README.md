@@ -27,9 +27,6 @@ The model is trained on a dataset of labeled emails, where each email is classif
 ## Model Performance
 The performance of the spam email detection model can be evaluated using various metrics. Here are some example metrics:
 
-- Accuracy: 97%
-- Precision: 98%
-- Recall: 89%
-- F1-score: 93%
+![image](https://github.com/TenzinNsut/SpamEmailDetection/assets/105097758/77ba840d-8146-498f-9c5f-a4c8041fa91d)
 
 These metrics provide insights into how well the model can correctly identify spam and ham emails.
